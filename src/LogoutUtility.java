@@ -1,5 +1,5 @@
 public class LogoutUtility {
     public static void main(String[] args) {
-        // ghf
+        // awesome utility here about logout
     }
 }
